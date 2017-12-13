@@ -9,4 +9,4 @@
 3. Item 3
    * Item A
    * Item B  
-   * [CUNYTV] (http://www.cuny.tv)
+   * [CUNYTV](http://www.cuny.tv)
